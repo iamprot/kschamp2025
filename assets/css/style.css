@@ -1336,7 +1336,7 @@ body
     left: 0;
     width: 32px;
     height: 60px;
-    background: url(/assets/img/arrow.png);
+    /* background: url(/assets/img/arrow.png); */
 }
 
 .mob_menu
