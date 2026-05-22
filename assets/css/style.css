@@ -10,7 +10,7 @@ html {
 
 body {
     background-color: #222327;
-    background: url(../../assets/img/hero-bg_3.png) #1A1C24;
+    background: url(../../assets/img/hero-bg_4.png) #1A1C24;
     background-repeat: no-repeat;
     background-position: top center;
     background-size: contain;
@@ -132,7 +132,7 @@ h3,
 .button_or {
     width: 180px;
     padding: 15px 20px;
-    background: #ff4e02;
+    background: #4bb603;
     font-weight: 700;
     line-height: 1.5rem;
     text-decoration: none;
@@ -171,7 +171,7 @@ h3,
     line-height: 1.5rem;
     text-decoration: none;
     text-align: center;
-    color: #ff4e02;
+    color: #51c900;
     box-shadow: 0px 5px 15px 0px rgba(80, 80, 80, 0.2);
     border-radius: 1rem;
 }
