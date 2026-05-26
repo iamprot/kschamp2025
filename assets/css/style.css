@@ -970,14 +970,14 @@ h3,
     }
 
     .partners_block img {
-        max-width: 100%;
+        max-height: 48px;
     }
 }
 
 @media (max-width: 576px) {
     .partners_block {
         padding: 0px 20px;
-        gap: 20px;
+        gap: 40px;
     }
 }
 
